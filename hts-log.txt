@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 02 Apr 2025 05:11:11 at https://dccrsorgi1.github.io/IOOI/dc.crsorgi.gov.in.lndax.fun/crs/verifycertificatef760.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://dccrsorgi1.github.io/IOOI/dc.crsorgi.gov.in.lndax.fun/crs/verifycertificatef760.html -O1 "C:\My Web Sites\E" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+05:11:16	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://dc.crsorgi.gov.in.verifycertificate.co/footer-logo-sprite-3.150ba99c6fa2a0b159c8.png (from https://dccrsorgi1.github.io/IOOI/dc.crsorgi.gov.in.lndax.fun/crs/verifycertificatef760.html)
+05:11:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://dc.crsorgi.gov.in.verifycertificate.co/footer-logo-sprite-3.150ba99c6fa2a0b159c8.png (from https://dccrsorgi1.github.io/IOOI/dc.crsorgi.gov.in.lndax.fun/crs/verifycertificatef760.html)
+05:11:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://dc.crsorgi.gov.in.verifycertificate.co/footer-logo-sprite-3.150ba99c6fa2a0b159c8.png (from https://dccrsorgi1.github.io/IOOI/dc.crsorgi.gov.in.lndax.fun/crs/verifycertificatef760.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 seconds : 18 links scanned, 14 files written (1207808 bytes overall) [531287 bytes received at 106257 bytes/sec], 850278 bytes transferred using HTTP compression in 7 files, ratio 18%, 7.5 requests per connection
+(1 errors, 2 warnings, 0 messages)
